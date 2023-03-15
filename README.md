@@ -3,7 +3,7 @@
 ## I'm a Full Stack Web Developer and Graphic Designer
 - Using Javascript, React, HTML, CSS and Node.js
 - Graduated from University of Arizona Full Stack Web Development Bootcamp
-- Currently working on a collaborative project using Javascript, Typescript, React, CSS Frameworks, GraphQL, and Postgres.
+- I am presently working on collaborative projects using Javascript, Typescript, React, CSS Frameworks, GraphQL, and Postgres.
 
 ### Connect with me:
 
