@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello and welcome to my github, I'm Boris
 
-<!--
-**Boris-Veselov/Boris-Veselov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Web Developer and Graphic Designer
+- Using Javascript, React, HTML, CSS and Node.js
+- Graduated from University of Arizona Full Stack Web Development Bootcamp
+- Currently working on a collaborative project using Javascript, Typescript, React, CSS Frameworks, GraphQL, and Postgres.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:email: borisveselov@yahoo.com
+
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />](https://www.linkedin.com/in/veselavalava)
+
+<br />
+
+### Languages and Tools:
+
+Javascript, React, Node, Express, HTML, CSS, MySQL, Git, MongoDB, GraphQL.
+
+<br />
+<br />
