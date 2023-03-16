@@ -4,7 +4,7 @@
 - Using Javascript, React, HTML, CSS and Node.js
 - Graduated from University of Arizona Full Stack Web Development Bootcamp
 - I am presently working on collaborative projects using Javascript, Typescript, React, CSS Frameworks, GraphQL, and Postgres.
-- I am on the lookout for exciting front-end positions that foster a culture of collaboration, teamwork, and personal and professional development.
+- Currently I am on the lookout for exciting front-end positions that foster a culture of collaboration, teamwork, and personal and professional development.
 
 ### Connect with me:
 
