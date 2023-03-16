@@ -1,4 +1,4 @@
-### Hello and welcome to my github, I'm Boris
+### Hello and welcome to my github, I'm Boris #wave
 
 ## I'm a Full Stack Web Developer and Graphic Designer
 - Using Javascript, React, HTML, CSS and Node.js
