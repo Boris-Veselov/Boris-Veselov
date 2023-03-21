@@ -10,7 +10,7 @@
 
 :email: borisveselov@yahoo.com
 
-☎️: 7578764108
+☎️ 7578764108
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />](https://www.linkedin.com/in/veselavalava)
 
